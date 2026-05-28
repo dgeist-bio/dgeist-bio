@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel Geist 👋
 
-Biochemist | Aspiring Computational Leukemia Researcher
+Biochemist | Aspiring Computational Researcher
 
 Strong foundation in biomedical topics. Co-author in Blood Advances.
 Focused on translating molecular pathways into Python-based analysis.
