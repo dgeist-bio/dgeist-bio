@@ -1,19 +1,22 @@
-## Hi there, I'm Daniel Geist 👋
+# Hi there, I'm Daniel Geist 👋
 
-Biochemist | Aspiring Computational Researcher
+**Biochemist | Computational Biology & Data Pipelines**  
+*Bridging wet-lab biology and dry-lab data science to accelerate cancer research.*
 
-Strong foundation in biomedical topics. Co-author in Blood Advances.
-Focused on translating molecular pathways into Python-based analysis.
+---
 
-I am a molecular biologist transitioning into the world of bioinformatics to accelerate cancer research through automation and Python-based analysis.
+### 🧬 About Me
+I am a Biochemist and Molecular Biologist combining wet-lab expertise with bioinformatics. My focus is on leveraging Python automation and computational workflows to analyze complex molecular pathways and accelerate biomedical research.
 
-- 🧬 Background: B.Sc. in Molecular Biology & Biochemistry.
-- 🧪 Research: M.Sc. focus on Endocrinology (Dr. Tuckermann) and Leukemia research (Ushmorov Lab).
-- 📝 Publications: Co-author in *Blood Advances* (Leukemia research).
-- 💻 Currently Learning: Advanced Python for Bioinformatics, Automation and Pipelines.
-- 🎯 Goal: Bridging the gap between Wet Lab experiments and Dry Lab data science to find better treatments for B- and T-cell malignancies.
+* **Background:** B.Sc. & M.Sc. in Biochemistry / Molecular Biology
+* **Research:** Leukemia Research & Molecular Oncology (Ushmorov Lab)
+* **Publications:** Co-author in [*Blood Advances*](https://doi.org/10.1182/bloodadvances.2024015560)
+* **Currently Learning:** Advanced Python for Bioinformatics, Automated Pipelines & Data Visualization
+* **Goal:** Building computational workflows to advance targeted treatments for B- and T-cell malignancies
 
-### Connect with me:
-ORCID: 0009-0004-4169-9273 | LinkedIn: https://www.linkedin.com/in/daniel-geist-b96a763b2/
+---
 
-*“If you can’t find me in the lab, check the server – The ghost is in the machine or in the lab.”* 😉
+### 📫 Connect with Me
+[ORCID](https://orcid.org/0009-0004-4169-9273) • [LinkedIn](https://www.linkedin.com/in/daniel-geist-b96a763b2/)
+
+> *"If you can't find me at the bench, check the server — there's a ghost in the machine."* 😉
